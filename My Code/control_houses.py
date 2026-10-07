@@ -1,3 +1,6 @@
+# Code to generate the nested set of control houses for each penetration
+
+
 import numpy as np
 import pickle
 

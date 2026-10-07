@@ -1,3 +1,5 @@
+# Code written by Dougal McQueen
+
 import numpy as np
 #OpenDSS_get
 

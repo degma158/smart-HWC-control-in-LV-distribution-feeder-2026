@@ -1,4 +1,4 @@
-# Code for initial simulation with HWC and only load (no other load profiles)
+# Code for initial simulation with HWC and only load (no other load profiles) to find average HWC electrical load and voltage/current changes from HWC switching
 
 # Import dependencies
 import pandas as pd

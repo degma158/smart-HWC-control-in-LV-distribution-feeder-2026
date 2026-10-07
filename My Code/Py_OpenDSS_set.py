@@ -1,4 +1,5 @@
-#scripts for setting Circuit components in OpenDSS
+# Scripts for setting Circuit components in OpenDSS
+# Written by Dougal McQueen
 
 import pandas as pd
 #helper functions for setting and getting from OpenDSS

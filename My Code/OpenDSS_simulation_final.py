@@ -1,3 +1,6 @@
+# Final simulation code for the LV test feeder with HWC control under various controllers at various penetrations
+# Written by Max de Groot, based on code by Dougal McQueen
+
 # Import dependencies
 import pandas as pd
 from dss import dss

@@ -1,3 +1,5 @@
+# Code writen by Dougal McQueen
+
 import pandas as pd
 from dss import dss
 import numpy as np

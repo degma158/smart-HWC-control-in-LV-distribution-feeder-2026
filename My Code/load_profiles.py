@@ -1,3 +1,6 @@
+# Code to import and preprocess the household electrical load profiles including scaling
+# Edited by Max de Groot based on code by Dougal McQueen
+
 # Load dependencies
 import os
 import pandas as pd
